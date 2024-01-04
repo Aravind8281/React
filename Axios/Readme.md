@@ -1,6 +1,4 @@
-# Axios is a popular JavaScript library used for making HTTP requests from the browser. 
-# It is commonly employed in front-end development, especially with frameworks like React, Angular, or Vue.js. 
-# Axios simplifies the process of sending asynchronous HTTP requests to a server and handling the responses.
+ Axios is a popular JavaScript library used for making HTTP requests from the browser.It is commonly employed in front-end development, especially with frameworks like React, Angular, or Vue.js.Axios simplifies the process of sending asynchronous HTTP requests to a server and handling the responses.
 
 Here's a brief breakdown:
 
