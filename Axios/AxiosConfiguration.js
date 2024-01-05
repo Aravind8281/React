@@ -3,7 +3,7 @@ import axios from 'axios';
 const App = () => {
   axios({
     method:'get',
-    url:'https://backend-b4hi.onrender.com/api/portfolio',
+    url:'',
     headers:{ 'Content-Type': 'application/json' },
     timeout:5000
   })
