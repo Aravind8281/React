@@ -2,7 +2,7 @@ import React from "react";
 import axios from 'axios';
 function App(){
   const source=axios.CancelToken.source();
-  axios.get('https://backend-b4hi.onrender.com/api/portfolio',{cancelToken:source.token})
+  axios.get('',{cancelToken:source.token})
   .then(response=>{
     console.log(response.data);
   })
