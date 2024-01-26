@@ -26,8 +26,3 @@ This repository is actively maintained and expanded. New content, updates, and a
 1. Clone or download the repository.
 2. Explore the organized folders for specific topics.
 3. Follow the README files for detailed instructions and resources.
-
-👩‍💻 **Contributions:**
-Contributions are welcome! If you find errors, want to add new content, or suggest improvements, feel free to open an issue or submit a pull request.
-
-Let's learn React together and build awesome applications! Happy coding! 🚀
